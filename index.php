@@ -29,7 +29,9 @@
   <body>
   	<div id="sign-in-link" style="position: absolute; top: 20px;right: 20px;"></div>
     <header>
+	    <div id="salesforce-login"></div>
       <div class="masthead-elements-row-1">
+	      
         <div class="element-left"></div>
         <div class="element-middle">
           <img class="logo" src="images/fix-logotype.png" alt="Fix">
